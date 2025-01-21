@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<center>    <u><H1>WELCOME TO MY WEBPAGE</H1></u>
+<img src="welcome.png" alt="welcome">
+ <h1>Welcome to my own personal webpage </h1>
+ <h2> <u>Things to know about me </u> </h2>
+ </center>
+<ol>
+    <h3>
+    <li>I am web developer</li>
+    <li>I like movies,anime,webseries,manga,travelling</li>
+<li>I am currently unemployed</li>
+<li>I am also jobless</li>
+<li>looking for job with goood/best salary</li>
+</h3>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<center>
+<hr>
+<br>
+<h2><u>FOR MORE INFORMATION </u></h2>
+<a href="sample2">contact_mee</a>
+</center>
+
+
+</body>
+</html>
